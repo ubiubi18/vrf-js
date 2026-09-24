@@ -1,5 +1,9 @@
 # vrf-js
 
+## Research disclaimer
+
+This is experimental research software. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 [![NPM](https://nodei.co/npm/@idena/vrf-js.png?stars&downloads)](https://nodei.co/npm/@idena/vrf-js/)  
 A reference implementation of [Google Key Transparency VRF](https://github.com/google/keytransparency/tree/master/core/crypto/vrf)
 
